@@ -12,7 +12,7 @@
 [travis-badge]: https://img.shields.io/travis/rauenzi/BDPluginLibrary.svg?&style=flat-square&branch=master
 [travis-link]: https://travis-ci.org/rauenzi/BDPluginLibrary
 
-[download]: https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js
+[download]: https://betterdiscord.app/Download?id=9
 
 This is the repo for Zere's Plugin Library for BetterDiscord. For now this is only for BBD/BDv1 You can follow development here. There will be more info and shit to come, but for now here ya go.
 
